@@ -15,6 +15,7 @@
   },
   "description": "Awesome extensions pack.",
   "extensionPack": [
+    "github.copilot",
     "EditorConfig.EditorConfig",
     "esbenp.prettier-vscode",
     "alefragnani.Bookmarks",
